@@ -1,42 +1,42 @@
-## Hi, I'm Raunaq Sodhi 👋
+<div align="center">
 
-I’m a Data Science student with a background in computer science, robotics, and technical systems work. I enjoy building practical, data-driven solutions using Python, SQL, machine learning, and analytics, with a focus on solving real-world problems through structured reasoning and scalable workflows.
+# 𝗥𝗮𝘂𝗻𝗮𝗾 𝗦𝗼𝗱𝗵𝗶
+### Data Science • Machine Learning • Analytics • Technical Systems
 
-I’m currently advancing my skills through the TripleTen Data Science Bootcamp, where I work on projects involving exploratory data analysis, statistical testing, predictive modeling, machine learning, and data visualization. My background also includes hands-on robotics development, hardware troubleshooting, and technical deployment experience, which has strengthened my systems-level thinking and problem-solving approach.
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Data+Science+Student;Machine+Learning+Enthusiast;Python+%7C+SQL+%7C+Analytics;Robotics+%26+Systems+Engineering" />
 
-### What I’m focused on
-- Building data analysis and machine learning projects with real business value
-- Strengthening my skills in predictive modeling, feature engineering, and model evaluation
-- Expanding my portfolio with practical end-to-end analytics and ML work
-- Participating in outsourcing, freelance, and collaborative technical projects
+<br>
 
-### Tech Stack
-- Languages: Python, SQL, C++
-- Data Science: Pandas, NumPy, scikit-learn, Matplotlib
-- Concepts: EDA, feature engineering, hypothesis testing, predictive modeling, machine learning
-- Other Technical Experience: Arduino, Raspberry Pi, robotics systems, hardware setup and troubleshooting
-- Tools: Jupyter Notebook, Git, GitHub
+[![Portfolio](https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=github&logoColor=white)](https://github.com/raunaqsodhi/my-portfolio)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raunaqsodhi)
+[![Location](https://img.shields.io/badge/Las_Vegas-NV-1f2937?style=for-the-badge&logo=googlemaps&logoColor=white)](#)
 
-### Background
-My experience combines software, data, and technical operations. Alongside my data science training, I’ve worked in device configuration and deployment environments, supported technical workflows, and developed robotics projects involving automation, navigation, and object interaction. This mix of analytics, programming, and hands-on systems work helps me approach problems from both a data and engineering perspective.
+</div>
 
-### A few fun facts
-- I’ve built a robotics project capable of line following, obstacle avoidance, object pickup and drop-off, and traffic light navigation
-- I enjoy working on both software and hardware problems
-- I like breaking down complex systems into practical, measurable solutions
+---
 
-### Open to
-- Data Analyst projects
-- Data Science projects
-- Machine Learning projects
-- Python and SQL-based outsourcing work
-- Collaborative technical and analytics-focused opportunities
+## About Me
 
-### Links
-- Portfolio: [Add your portfolio link here](#)
-- Resume: [Add your resume link here](#)
-- LinkedIn: [Add your LinkedIn link here](#)
+I’m a Data Science student with a background in computer science, robotics, and technical systems operations. I enjoy building practical, data-driven solutions using Python, SQL, machine learning, and analytics with a strong focus on solving real-world problems through structured reasoning and scalable workflows.
 
-### Location
-Las Vegas, NV  
-Open to remote, hybrid, and local opportunities
+Currently, I’m advancing my technical and analytical skills through the TripleTen Data Science Bootcamp, where I work on projects involving:
+
+- Exploratory Data Analysis (EDA)
+- Statistical Testing
+- Predictive Modeling
+- Machine Learning
+- Data Visualization
+- Feature Engineering
+
+My experience also includes hands-on robotics development, hardware troubleshooting, technical deployment workflows, and systems-level problem solving, allowing me to approach challenges from both engineering and analytical perspectives.
+
+---
+
+## Current Focus
+
+```diff
++ Building end-to-end data analytics and machine learning projects
++ Strengthening predictive modeling and feature engineering skills
++ Expanding a professional data science portfolio
++ Working on collaborative and freelance technical projects
++ Developing scalable analytical workflows
